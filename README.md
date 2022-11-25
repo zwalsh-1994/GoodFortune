@@ -1,5 +1,5 @@
 # GoodFortune
- A Fortune-Telling Python application (NETI109 Final Project)
+## A Fortune-Telling Python application (NETI109 Final Project)
 Author: Zachary Walsh
 Last Edited Date: September 25, 2022
 Purpose:
